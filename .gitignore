@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Production build output
+dist/
+.next
+
+# Vite cache
+.vite/
+
+# Local environment variables
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: lockfiles if you don’t want them versioned (not usually recommended)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
